@@ -4,11 +4,11 @@
 //
 //  Created by 鶴見駿 on 2024/05/18.
 //
-func readInt() -> Int {
+private func readInt() -> Int {
     return Int(readLine()!)!
 }
 
-func readInts() -> [Int] {
+private readInts() -> [Int] {
     return readLine()!.split(separator: " ").map { Int(String($0))! }
 }
 
