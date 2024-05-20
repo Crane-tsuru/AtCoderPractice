@@ -1,4 +1,10 @@
-// 関数はコメントアウトを外して採用
+/*
+ TLEが解決できないため保留
+ 
+ 関数はコメントアウトを外す
+ 
+ 
+ */
 
 //func readInt() -> Int {
 //    let inputInt = Int(readLine()!)!

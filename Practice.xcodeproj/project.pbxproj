@@ -11,6 +11,7 @@
 		F39CDD782BFB8120004A8B3F /* readInt.swift in Sources */ = {isa = PBXBuildFile; fileRef = F39CDD772BFB8120004A8B3F /* readInt.swift */; };
 		F39CDD7A2BFB8286004A8B3F /* readInts.swift in Sources */ = {isa = PBXBuildFile; fileRef = F39CDD792BFB8286004A8B3F /* readInts.swift */; };
 		F39CDD7D2BFB8313004A8B3F /* readTwoInts.swift in Sources */ = {isa = PBXBuildFile; fileRef = F39CDD7C2BFB8313004A8B3F /* readTwoInts.swift */; };
+		F3CAE6232BFC0F6F0054F314 /* main19.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3CAE6222BFC0F6F0054F314 /* main19.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,7 @@
 		F39CDD772BFB8120004A8B3F /* readInt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = readInt.swift; sourceTree = "<group>"; };
 		F39CDD792BFB8286004A8B3F /* readInts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = readInts.swift; sourceTree = "<group>"; };
 		F39CDD7C2BFB8313004A8B3F /* readTwoInts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = readTwoInts.swift; sourceTree = "<group>"; };
+		F3CAE6222BFC0F6F0054F314 /* main19.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main19.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 			isa = PBXGroup;
 			children = (
 				F39CDD742BFB80D0004A8B3F /* main18.swift */,
+				F3CAE6222BFC0F6F0054F314 /* main19.swift */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F39CDD7D2BFB8313004A8B3F /* readTwoInts.swift in Sources */,
+				F3CAE6232BFC0F6F0054F314 /* main19.swift in Sources */,
 				F39CDD782BFB8120004A8B3F /* readInt.swift in Sources */,
 				F39CDD7A2BFB8286004A8B3F /* readInts.swift in Sources */,
 				F39CDD752BFB80D0004A8B3F /* main18.swift in Sources */,
