@@ -11,6 +11,7 @@
 		F31201652BF216D3006DA14A /* mainA.swift in Sources */ = {isa = PBXBuildFile; fileRef = F31201642BF216D3006DA14A /* mainA.swift */; };
 		F39CDD752BFB80D0004A8B3F /* main18.swift in Sources */ = {isa = PBXBuildFile; fileRef = F39CDD742BFB80D0004A8B3F /* main18.swift */; };
 		F39CDD782BFB8120004A8B3F /* readInt.swift in Sources */ = {isa = PBXBuildFile; fileRef = F39CDD772BFB8120004A8B3F /* readInt.swift */; };
+		F39CDD7A2BFB8286004A8B3F /* readInts.swift in Sources */ = {isa = PBXBuildFile; fileRef = F39CDD792BFB8286004A8B3F /* readInts.swift */; };
 		F3E6ACAF2BF8D538006689F5 /* mainB.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3E6ACAE2BF8D538006689F5 /* mainB.swift */; };
 /* End PBXBuildFile section */
 
@@ -32,6 +33,7 @@
 		F31201642BF216D3006DA14A /* mainA.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mainA.swift; sourceTree = "<group>"; };
 		F39CDD742BFB80D0004A8B3F /* main18.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main18.swift; sourceTree = "<group>"; };
 		F39CDD772BFB8120004A8B3F /* readInt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = readInt.swift; sourceTree = "<group>"; };
+		F39CDD792BFB8286004A8B3F /* readInts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = readInts.swift; sourceTree = "<group>"; };
 		F3E6ACAE2BF8D538006689F5 /* mainB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mainB.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -78,6 +80,7 @@
 			isa = PBXGroup;
 			children = (
 				F39CDD772BFB8120004A8B3F /* readInt.swift */,
+				F39CDD792BFB8286004A8B3F /* readInts.swift */,
 			);
 			path = Method;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F39CDD782BFB8120004A8B3F /* readInt.swift in Sources */,
+				F39CDD7A2BFB8286004A8B3F /* readInts.swift in Sources */,
 				F31201652BF216D3006DA14A /* mainA.swift in Sources */,
 				F39CDD752BFB80D0004A8B3F /* main18.swift in Sources */,
 				F3E6ACAF2BF8D538006689F5 /* mainB.swift in Sources */,
