@@ -17,10 +17,11 @@ func main19() {
     
     var count = 0
     
-    while cardsNum.isEmpty {
+    while !cardsNum.isEmpty {
         let compareNum = cardsNum.removeFirst()
         
         for cardNum in cardsNum {
+            print(cardNum)
             
             if compareNum == cardNum {
                 count += 1
