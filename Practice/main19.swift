@@ -1,13 +1,13 @@
-func readInt() -> Int {
-    let inputInt = Int(readLine()!)!
-    return inputInt
-}
-
-
-func readInts() -> [Int] {
-    let inputIntList = readLine()!.split(separator: " ").map { Int(String($0))! }
-    return inputIntList
-}
+//func readInt() -> Int {
+//    let inputInt = Int(readLine()!)!
+//    return inputInt
+//}
+//
+//
+//func readInts() -> [Int] {
+//    let inputIntList = readLine()!.split(separator: " ").map { Int(String($0))! }
+//    return inputIntList
+//}
 
 
 func main19() {
@@ -33,4 +33,4 @@ func main19() {
     print(combinationCounter)
 }
 
-main19()
+//main19()
