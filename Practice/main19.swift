@@ -13,26 +13,24 @@ func readInts() -> [Int] {
 func main19() {
     let N = readInt()
     
-    var cardsNum = readInts()
+    var cardsColor = readInts()
     
-    var count = 0
+    var countersByColor: [Int] = [0, 0, 0]
     
-    while !cardsNum.isEmpty {
-        let compareNum = cardsNum.removeFirst()
-        
-        for cardNum in cardsNum {
-            print(cardNum)
-            
-            if compareNum == cardNum {
-                count += 1
-            }
-            
-        }
-        
+    for cardsColor in cardsColor {
+        let counterIndex = (cardsColor - 1) % 3
+        countersByColor[counterIndex] += 1
     }
     
-    print(count)
+    var combinationCounter = 0
     
+    for colorCounter in countersByColor {
+        if colorCounter > 1 {
+            combinationCounter += colorCounter*(colorCounter - 1) / 2
+        }
+    }
+    
+    print(combinationCounter)
 }
 
 main19()

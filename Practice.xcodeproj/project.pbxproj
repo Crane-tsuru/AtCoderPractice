@@ -12,6 +12,7 @@
 		F39CDD7A2BFB8286004A8B3F /* readInts.swift in Sources */ = {isa = PBXBuildFile; fileRef = F39CDD792BFB8286004A8B3F /* readInts.swift */; };
 		F39CDD7D2BFB8313004A8B3F /* readTwoInts.swift in Sources */ = {isa = PBXBuildFile; fileRef = F39CDD7C2BFB8313004A8B3F /* readTwoInts.swift */; };
 		F3CAE6232BFC0F6F0054F314 /* main19.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3CAE6222BFC0F6F0054F314 /* main19.swift */; };
+		F3CAE6262BFC9FA50054F314 /* Combination.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3CAE6252BFC9FA50054F314 /* Combination.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +34,7 @@
 		F39CDD792BFB8286004A8B3F /* readInts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = readInts.swift; sourceTree = "<group>"; };
 		F39CDD7C2BFB8313004A8B3F /* readTwoInts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = readTwoInts.swift; sourceTree = "<group>"; };
 		F3CAE6222BFC0F6F0054F314 /* main19.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main19.swift; sourceTree = "<group>"; };
+		F3CAE6252BFC9FA50054F314 /* Combination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Combination.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 		F39CDD762BFB8105004A8B3F /* Method */ = {
 			isa = PBXGroup;
 			children = (
+				F3CAE6242BFC9F8F0054F314 /* Math */,
 				F39CDD7B2BFB82DD004A8B3F /* RelateReadLine */,
 			);
 			path = Method;
@@ -88,6 +91,14 @@
 				F39CDD7C2BFB8313004A8B3F /* readTwoInts.swift */,
 			);
 			path = RelateReadLine;
+			sourceTree = "<group>";
+		};
+		F3CAE6242BFC9F8F0054F314 /* Math */ = {
+			isa = PBXGroup;
+			children = (
+				F3CAE6252BFC9FA50054F314 /* Combination.swift */,
+			);
+			path = Math;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -151,6 +162,7 @@
 				F39CDD7D2BFB8313004A8B3F /* readTwoInts.swift in Sources */,
 				F3CAE6232BFC0F6F0054F314 /* main19.swift in Sources */,
 				F39CDD782BFB8120004A8B3F /* readInt.swift in Sources */,
+				F3CAE6262BFC9FA50054F314 /* Combination.swift in Sources */,
 				F39CDD7A2BFB8286004A8B3F /* readInts.swift in Sources */,
 				F39CDD752BFB80D0004A8B3F /* main18.swift in Sources */,
 			);
