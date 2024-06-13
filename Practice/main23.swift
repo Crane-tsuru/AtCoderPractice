@@ -5,15 +5,15 @@
 */
 
 
-func readInt() -> Int {
-    let inputNumber = Int(readLine()!)!
-    return inputNumber
-}
-
-func readInts() -> [Int] {
-    let inputNumbers = readLine()!.split(separator: " ").map { Int(String($0))! }
-    return inputNumbers
-}
+//func readInt() -> Int {
+//    let inputNumber = Int(readLine()!)!
+//    return inputNumber
+//}
+//
+//func readInts() -> [Int] {
+//    let inputNumbers = readLine()!.split(separator: " ").map { Int(String($0))! }
+//    return inputNumbers
+//}
 
 
 func main23() {
@@ -37,4 +37,4 @@ func main23() {
     print(result)
 }
 
-main23()
+//main23()
