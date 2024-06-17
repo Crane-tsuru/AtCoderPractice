@@ -20,6 +20,7 @@
 		F3E552D42C1A949900E11352 /* main24.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3E552D32C1A949900E11352 /* main24.swift */; };
 		F3E995AF2C1FB68B0024547D /* main26.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3E995AE2C1FB68B0024547D /* main26.swift */; };
 		F3E995B12C1FBBB60024547D /* main27.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3E995B02C1FBBB60024547D /* main27.swift */; };
+		F3E995B42C1FC0330024547D /* MergeSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3E995B32C1FC0330024547D /* MergeSort.swift */; };
 		F3FAC0C52C0ECE85003C18CA /* main20.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3FAC0C42C0ECE85003C18CA /* main20.swift */; };
 /* End PBXBuildFile section */
 
@@ -50,6 +51,7 @@
 		F3E552D32C1A949900E11352 /* main24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main24.swift; sourceTree = "<group>"; };
 		F3E995AE2C1FB68B0024547D /* main26.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main26.swift; sourceTree = "<group>"; };
 		F3E995B02C1FBBB60024547D /* main27.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main27.swift; sourceTree = "<group>"; };
+		F3E995B32C1FC0330024547D /* MergeSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeSort.swift; sourceTree = "<group>"; };
 		F3FAC0C42C0ECE85003C18CA /* main20.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main20.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -101,6 +103,7 @@
 		F39CDD762BFB8105004A8B3F /* Method */ = {
 			isa = PBXGroup;
 			children = (
+				F3E995B22C1FC01E0024547D /* Sort */,
 				F3CAE6242BFC9F8F0054F314 /* Math */,
 				F39CDD7B2BFB82DD004A8B3F /* RelateReadLine */,
 			);
@@ -123,6 +126,14 @@
 				F3CD0A542C19113500522867 /* Combination.swift */,
 			);
 			path = Math;
+			sourceTree = "<group>";
+		};
+		F3E995B22C1FC01E0024547D /* Sort */ = {
+			isa = PBXGroup;
+			children = (
+				F3E995B32C1FC0330024547D /* MergeSort.swift */,
+			);
+			path = Sort;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -192,6 +203,7 @@
 				F39CDD782BFB8120004A8B3F /* readInt.swift in Sources */,
 				F39CDD7A2BFB8286004A8B3F /* readInts.swift in Sources */,
 				F39CDD752BFB80D0004A8B3F /* main18.swift in Sources */,
+				F3E995B42C1FC0330024547D /* MergeSort.swift in Sources */,
 				F3E552D42C1A949900E11352 /* main24.swift in Sources */,
 				F3CD0A552C19113500522867 /* Combination.swift in Sources */,
 				F3E995AF2C1FB68B0024547D /* main26.swift in Sources */,

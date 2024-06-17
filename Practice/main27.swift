@@ -1,3 +1,17 @@
+/*
+ 
+ 配列Aに対して、print(A)を実行すると
+ [a1, a2,,,,aN]となるがこれは正解とならないため、
+ for i in 0..N {
+    print(A[i])
+ }
+ としなければならない。
+ ただし、
+ print(A[i], terminoter = " ") // 改行しない
+ とする必要はない
+ 
+*/
+
 private func readInt() -> Int {
     let inputInt = Int(readLine()!)!
     return inputInt
@@ -21,4 +35,4 @@ private func main27() {
     }
 }
 
-main27()
+//main27()
