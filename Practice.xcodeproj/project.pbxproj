@@ -19,6 +19,7 @@
 		F3CD0A552C19113500522867 /* Combination.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3CD0A542C19113500522867 /* Combination.swift */; };
 		F3E552D42C1A949900E11352 /* main24.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3E552D32C1A949900E11352 /* main24.swift */; };
 		F3E995AF2C1FB68B0024547D /* main26.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3E995AE2C1FB68B0024547D /* main26.swift */; };
+		F3E995B12C1FBBB60024547D /* main27.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3E995B02C1FBBB60024547D /* main27.swift */; };
 		F3FAC0C52C0ECE85003C18CA /* main20.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3FAC0C42C0ECE85003C18CA /* main20.swift */; };
 /* End PBXBuildFile section */
 
@@ -48,6 +49,7 @@
 		F3CD0A542C19113500522867 /* Combination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Combination.swift; sourceTree = "<group>"; };
 		F3E552D32C1A949900E11352 /* main24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main24.swift; sourceTree = "<group>"; };
 		F3E995AE2C1FB68B0024547D /* main26.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main26.swift; sourceTree = "<group>"; };
+		F3E995B02C1FBBB60024547D /* main27.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main27.swift; sourceTree = "<group>"; };
 		F3FAC0C42C0ECE85003C18CA /* main20.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main20.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -91,6 +93,7 @@
 				F3E552D32C1A949900E11352 /* main24.swift */,
 				F32D99DA2C1C80CE001A31A3 /* main25.swift */,
 				F3E995AE2C1FB68B0024547D /* main26.swift */,
+				F3E995B02C1FBBB60024547D /* main27.swift */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
@@ -183,6 +186,7 @@
 				F39CDD7D2BFB8313004A8B3F /* readTwoInts.swift in Sources */,
 				F35732002C198A9000B5F273 /* main23.swift in Sources */,
 				F3CD0A532C1910D400522867 /* main21.swift in Sources */,
+				F3E995B12C1FBBB60024547D /* main27.swift in Sources */,
 				F3CAE6232BFC0F6F0054F314 /* main19.swift in Sources */,
 				F3FAC0C52C0ECE85003C18CA /* main20.swift in Sources */,
 				F39CDD782BFB8120004A8B3F /* readInt.swift in Sources */,
