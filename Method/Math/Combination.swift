@@ -2,7 +2,7 @@
  n < rは問題で指定がない限り考慮しない
 */
 
-func makeCombination(_ n: Int, _ r: Int) -> Int {
+private func makeCombination(_ n: Int, _ r: Int) -> Int {
     
     if n == r {
         return 1
