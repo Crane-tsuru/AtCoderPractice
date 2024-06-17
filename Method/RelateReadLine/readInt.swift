@@ -1,4 +1,4 @@
-func readInt() -> Int {
+private func readInt() -> Int {
     let inputInt = Int(readLine()!)!
     return inputInt
 }
