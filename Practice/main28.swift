@@ -39,4 +39,4 @@ func main28() {
     print(attempt[N-1])
 }
 
-main28()
+//main28()
